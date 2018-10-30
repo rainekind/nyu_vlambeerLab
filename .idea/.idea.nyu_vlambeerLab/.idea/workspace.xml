@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="315aba84-28f3-4191-bc73-ca59cde90aa0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.nyu_vlambeerLab/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.nyu_vlambeerLab/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.nyu_vlambeerLab/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.nyu_vlambeerLab/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.nyu_vlambeerLab/riderModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/scripts/Pathmaker.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/scripts/Pathmaker.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file pinned="false" current-in-tab="false">
+              <entry file="file://$USER_HOME$/Procgen/Assets/Scripts/fish.cs">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="-74">
+                    <folding>
+                      <marker date="1540326404635" expanded="false" signature="6:78" ph="..." />
+                      <marker date="1540326404635" expanded="true" signature="114:1000" ph="{...}" />
+                      <marker date="1540326404635" expanded="true" signature="119:202" ph="/* usage: put on a cube called &quot;fish&quot; ... */" />
+                      <marker date="1540326404635" expanded="true" signature="305:315" ph="{...}" />
+                      <marker date="1540326404635" expanded="true" signature="370:998" ph="{...}" />
+                      <marker date="1540326404635" expanded="true" signature="841:959" ph="{...}" />
+                    </folding>
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file pinned="false" current-in-tab="true">
+              <entry file="file://$USER_HOME$/Procgen/Assets/Scripts/fishgod.cs">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="375">
+                    <caret line="27" selection-start-line="27" selection-end-line="28" />
+                    <folding>
+                      <marker date="1540492778835" expanded="false" signature="6:78" ph="..." />
+                      <marker date="1540492778835" expanded="true" signature="117:1455" ph="{...}" />
+                      <marker date="1540492778835" expanded="true" signature="120:194" ph="/* put on mpty gameobj called FishGod ... */" />
+                      <marker date="1540492778835" expanded="true" signature="354:791" ph="{...}" />
+                      <marker date="1540492778835" expanded="true" signature="408:787" ph="{...}" />
+                      <marker date="1540492778835" expanded="true" signature="807:1453" ph="{...}" />
+                      <marker date="1540492778835" expanded="true" signature="886:1113" ph="{...}" />
+                      <marker date="1540492778835" expanded="true" signature="1032:1109" ph="{...}" />
+                      <marker date="1540492778835" expanded="true" signature="1116:1350" ph="/* if (Input.GetKeyDown(KeyCode.K)) ... */" />
+                      <marker date="1540492778835" expanded="true" signature="1356:1450" ph="/* myFishList.Clear(); //clear resets the list ... */" />
+                    </folding>
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file pinned="false" current-in-tab="false">
+              <entry file="file://$USER_HOME$/Procgen/Assets/Scripts/grassgen.cs">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="255">
+                    <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1514279322">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="916" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="916" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/scripts/Pathmaker.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+              <folding>
+                <marker date="1540922062041" expanded="true" signature="6:121" ph="..." />
+                <marker date="1540922062041" expanded="true" signature="123:494" ph="/* MAZE PROC GEN LAB ... */" />
+                <marker date="1540922062041" expanded="true" signature="535:2315" ph="{...}" />
+                <marker date="1540922062041" expanded="true" signature="538:846" ph="/* STEP 2: ============================================================================================ ... */" />
+                <marker date="1540922062041" expanded="true" signature="1313:1397" ph="{...}" />
+                <marker date="1540922062041" expanded="true" signature="1415:2312" ph="{...}" />
+                <marker date="1540922062041" expanded="true" signature="1499:2175" ph="{...}" />
+                <marker date="1540922062041" expanded="true" signature="1563:1608" ph="{...}" />
+                <marker date="1540922062041" expanded="true" signature="1733:1779" ph="{...}" />
+                <marker date="1540922062041" expanded="true" signature="1826:1931" ph="{...}" />
+                <marker date="1540922062041" expanded="true" signature="2182:2214" ph="{...}" />
+                <marker date="1540922062041" expanded="true" signature="2218:2309" ph="/* Else: ... */" />
+                <marker date="1540922062041" expanded="true" signature="2316:2369" ph="/* end of class scope ... */" />
+                <marker date="1540922062041" expanded="true" signature="2374:3096" ph="/* STEP 3: ===================================================================================== ... */" />
+                <marker date="1540922062041" expanded="true" signature="3100:3498" ph="/* STEP 4: ====================================================================================== ... */" />
+                <marker date="1540922062041" expanded="true" signature="3502:3932" ph="/* STEP 5: =================================================================================== ... */" />
+                <marker date="1540922062041" expanded="true" signature="3936:4806" ph="/* STEP 6:  ===================================================================================== ... */" />
+                <marker date="1540922062041" expanded="true" signature="4810:6075" ph="/* OPTIONAL EXTRA TASKS TO DO, IF YOU WANT: =================================================== ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/scripts/RestartScript.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <marker date="1540922308635" expanded="true" signature="6:114" ph="..." />
+                <marker date="1540922308635" expanded="true" signature="159:337" ph="{...}" />
+                <marker date="1540922308635" expanded="true" signature="215:335" ph="{...}" />
+                <marker date="1540922308635" expanded="true" signature="251:332" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/RestartScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Procgen/Assets/Scripts/grassgen.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Pathmaker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Procgen/Assets/Scripts/fish.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Procgen/Assets/Scripts/fishgod.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/scripts/Pathmaker.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/RestartScript.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="85" />
+    <option name="y" value="104" />
+    <option name="width" value="1061" />
+    <option name="height" value="648" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="scripts" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Procgen/Assets/Scripts/grassgen.cs" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor" />
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor &amp; Play" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="315aba84-28f3-4191-bc73-ca59cde90aa0" name="Default Changelist" comment="" />
+      <created>1540494299113</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540494299113</updated>
+      <workItem from="1540494304826" duration="1089000" />
+      <workItem from="1540903772121" duration="4080000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5169000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="85" y="104" width="1061" height="648" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30814525" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" visible="true" weight="0.0" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$USER_HOME$/Procgen/Assets/Scripts/grassgen.cs</url>
+          <line>17</line>
+          <properties documentPath="$USER_HOME$/Procgen/Assets/Scripts/grassgen.cs" initialLine="17">
+            <startOffsets>
+              <option value="423" />
+            </startOffsets>
+            <endOffsets>
+              <option value="524" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Procgen/Assets/Scripts/fish.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-74">
+          <folding>
+            <marker date="1540326404635" expanded="false" signature="6:78" ph="..." />
+            <marker date="1540326404635" expanded="true" signature="114:1000" ph="{...}" />
+            <marker date="1540326404635" expanded="true" signature="119:202" ph="/* usage: put on a cube called &quot;fish&quot; ... */" />
+            <marker date="1540326404635" expanded="true" signature="305:315" ph="{...}" />
+            <marker date="1540326404635" expanded="true" signature="370:998" ph="{...}" />
+            <marker date="1540326404635" expanded="true" signature="841:959" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Procgen/Assets/Scripts/grassgen.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Procgen/Assets/Scripts/fishgod.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="27" selection-start-line="27" selection-end-line="28" />
+          <folding>
+            <marker date="1540492778835" expanded="false" signature="6:78" ph="..." />
+            <marker date="1540492778835" expanded="true" signature="117:1455" ph="{...}" />
+            <marker date="1540492778835" expanded="true" signature="120:194" ph="/* put on mpty gameobj called FishGod ... */" />
+            <marker date="1540492778835" expanded="true" signature="354:791" ph="{...}" />
+            <marker date="1540492778835" expanded="true" signature="408:787" ph="{...}" />
+            <marker date="1540492778835" expanded="true" signature="807:1453" ph="{...}" />
+            <marker date="1540492778835" expanded="true" signature="886:1113" ph="{...}" />
+            <marker date="1540492778835" expanded="true" signature="1032:1109" ph="{...}" />
+            <marker date="1540492778835" expanded="true" signature="1116:1350" ph="/* if (Input.GetKeyDown(KeyCode.K)) ... */" />
+            <marker date="1540492778835" expanded="true" signature="1356:1450" ph="/* myFishList.Clear(); //clear resets the list ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/RestartScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <marker date="1540922308635" expanded="true" signature="6:114" ph="..." />
+            <marker date="1540922308635" expanded="true" signature="159:337" ph="{...}" />
+            <marker date="1540922308635" expanded="true" signature="215:335" ph="{...}" />
+            <marker date="1540922308635" expanded="true" signature="251:332" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/Pathmaker.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <marker date="1540922062041" expanded="true" signature="6:121" ph="..." />
+            <marker date="1540922062041" expanded="true" signature="123:494" ph="/* MAZE PROC GEN LAB ... */" />
+            <marker date="1540922062041" expanded="true" signature="535:2315" ph="{...}" />
+            <marker date="1540922062041" expanded="true" signature="538:846" ph="/* STEP 2: ============================================================================================ ... */" />
+            <marker date="1540922062041" expanded="true" signature="1313:1397" ph="{...}" />
+            <marker date="1540922062041" expanded="true" signature="1415:2312" ph="{...}" />
+            <marker date="1540922062041" expanded="true" signature="1499:2175" ph="{...}" />
+            <marker date="1540922062041" expanded="true" signature="1563:1608" ph="{...}" />
+            <marker date="1540922062041" expanded="true" signature="1733:1779" ph="{...}" />
+            <marker date="1540922062041" expanded="true" signature="1826:1931" ph="{...}" />
+            <marker date="1540922062041" expanded="true" signature="2182:2214" ph="{...}" />
+            <marker date="1540922062041" expanded="true" signature="2218:2309" ph="/* Else: ... */" />
+            <marker date="1540922062041" expanded="true" signature="2316:2369" ph="/* end of class scope ... */" />
+            <marker date="1540922062041" expanded="true" signature="2374:3096" ph="/* STEP 3: ===================================================================================== ... */" />
+            <marker date="1540922062041" expanded="true" signature="3100:3498" ph="/* STEP 4: ====================================================================================== ... */" />
+            <marker date="1540922062041" expanded="true" signature="3502:3932" ph="/* STEP 5: =================================================================================== ... */" />
+            <marker date="1540922062041" expanded="true" signature="3936:4806" ph="/* STEP 6:  ===================================================================================== ... */" />
+            <marker date="1540922062041" expanded="true" signature="4810:6075" ph="/* OPTIONAL EXTRA TASKS TO DO, IF YOU WANT: =================================================== ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

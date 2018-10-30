@@ -7,7 +7,7 @@ using UnityEngine;
 // optional: if you have extra time, complete the "extra tasks" to do at the very bottom
 
 // STEP 1: ======================================================================================
-// put this script on a Sphere... it will move around, and drop a path of floor tiles behind it
+// DONE: put this script on a Sphere... it will move around, and drop a path of floor tiles behind it 
 
 public class Pathmaker : MonoBehaviour {
 
@@ -15,22 +15,55 @@ public class Pathmaker : MonoBehaviour {
 // translate the pseudocode below
 
 //	DECLARE CLASS MEMBER VARIABLES:
-//	Declare a private integer called counter that starts at 0; 		// counter var will track how many floor tiles I've instantiated
-//	Declare a public Transform called floorPrefab, assign the prefab in inspector;
-//	Declare a public Transform called pathmakerSpherePrefab, assign the prefab in inspector; 		// you'll have to make a "pathmakerSphere" prefab later
+//	DONE: Declare a private integer called counter that starts at 0; 		// counter var will track how many floor tiles I've instantiated
+	private int counter = 0;
+//	DONE: Declare a public Transform called floorPrefab, assign the prefab in inspector;
+	public Transform[] floorBoys;
+//	PART DONE: Declare a public Transform called pathmakerSpherePrefab, assign the prefab in inspector; 		// you'll have to make a "pathmakerSphere" prefab later
+	public Transform pathmakerSpherePrefab;
+	public float rand;
 
+	public static int globalTileCount = 0;
+	private float spawnProb, turnProb;
+
+	private void Start()
+	{
+		turnProb = Random.Range(.1f, .25f);
+		spawnProb = Random.Range(.95f, .97f);
+	}
 
 	void Update () {
 //		If counter is less than 50, then:
-//			Generate a random number from 0.0f to 1.0f;
-//			If random number is less than 0.25f, then rotate myself 90 degrees;
-//				... Else if number is 0.25f-0.5f, then rotate myself -90 degrees;
-//				... Else if number is 0.99f-1.0f, then instantiate a pathmakerSpherePrefab clone at my current position;
-//			// end elseIf
+		if (counter < 50 && globalTileCount < 100)
+		{
+			rand = Random.Range(0.0f, 1.0f);
+			if (rand < turnProb)
+			{
+				transform.Rotate(0f, 90f, 0f);
+			}
+			//... Else if number is 0.25f-0.5f, then rotate myself -90 degrees;
+			else if (rand >= turnProb && rand <= turnProb * 2)
+			{
+				transform.Rotate(0f, -90f, 0f);
+			}
+			else if (rand >= spawnProb && rand <= 1.0f)
+			{
+				Instantiate(pathmakerSpherePrefab,
+					transform.position,
+					transform.rotation
+				);
+			}
 
-//			Instantiate a floorPrefab clone at current position;
-//			Move forward ("forward", as in, the direction I'm currently facing) by 5 units;
-//			Increment counter;
+			Instantiate(floorBoys[Random.Range(0,2)], transform.position, Quaternion.identity);
+			transform.position = Vector3.MoveTowards(transform.position, transform.position + (transform.forward * 5f), 5f);
+			counter++;
+			globalTileCount++;
+		}
+		else
+		{
+			Destroy(gameObject);
+		}
+		
 //		Else:
 //			Destroy my game object; 		// self destruct if I've made enough tiles already
 	}
